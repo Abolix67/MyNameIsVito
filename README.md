@@ -1,4 +1,4 @@
-# <center>Vito</center>
+# Vito
 
 <center>
 Discord: Vito#5681<br/>
